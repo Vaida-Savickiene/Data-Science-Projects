@@ -1,6 +1,6 @@
-# Data-Science-Training
+# Data-Science-Projects
 
-This repository contains the training evidence for advanced data fellowship.
+This repository contains the evidence for advanced data fellowship projects.
 
 ## Contents
 
